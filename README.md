@@ -15,6 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 *  Warlen alves
 * Jéssica Silva Santos 
 * Elizângela Oliveira
+* Breno lago
 
 ## Orientador
 
