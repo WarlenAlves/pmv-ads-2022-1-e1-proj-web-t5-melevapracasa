@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Guilherme Henrique Monteiro Cal
 * Ian Merlo Corrêa
-*  Warlen alves
+* Warlen alves
 * Jéssica Silva Santos 
 * Elizângela Oliveira
 * Breno lago
@@ -21,9 +21,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Simone Alves Nogueira
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
