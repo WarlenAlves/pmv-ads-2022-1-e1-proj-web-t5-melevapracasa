@@ -1,0 +1,20 @@
+message: Please cite this software using these metadata.
+title:Me Leva Pra Casa
+authors:
+  - family-names: Merlo Corrêa
+    given-names: Ian
+  - family-names: 
+    given-names: Henrique Monteiro
+  - family-names: Guilherme
+    given-names: Do Carmo  Alves
+  - family-names: Warlen
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone
+keywords:
+  - Adoção
+  - Animais
+repository-code: https://github.com/WarlenAlves/pmv-ads-2022-1-e1-proj-web-t5-melevapracasa
+version: 1.0.0
+date-released: 2022-04-07
