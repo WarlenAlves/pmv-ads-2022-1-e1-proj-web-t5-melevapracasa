@@ -3,12 +3,11 @@ title:Me Leva Pra Casa
 authors:
   - family-names: Merlo Corrêa
     given-names: Ian
-  - family-names: 
-    given-names: Henrique Monteiro Cal
-  - family-names: Guilherme
-    given-names: Do Carmo  Alves
-  - family-names: Warlen
-  - name-suffix: Professor
+  - family-names: Henrique Monteiro Cal
+    given-names: Guilherme
+  - family-names: Do Carmo  Alves
+    given-names: Warlen
+    - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Alves Nogueira
     given-names: Simone
